@@ -1,8 +1,7 @@
-.DS_Store
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
